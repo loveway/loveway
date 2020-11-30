@@ -1,2 +1,3 @@
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=loveway&show_icons=true&theme=vue)](https://github.com/anuraghazra/github-readme-stats)
+[![HenryCheng's github stats](https://github-readme-stats.vercel.app/api?username=loveway&show_icons=true&theme=vue&hide=contribs,prs)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=loveway&layout=compact&hide=javascript,html)](https://github.com/anuraghazra/github-readme-stats)
